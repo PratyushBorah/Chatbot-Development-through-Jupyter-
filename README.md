@@ -1,6 +1,6 @@
 # 📘 Financial Chatbot – Smart CSV-Based Financial Assistant
 
-This project is a **Financial Chatbot** built entirely in **Python within a Jupyter Notebook**. It processes company financials from a CSV file (`Fin.csv`) and intelligently responds to **natural-language questions** related to revenue, net income, and growth trends.
+This project is a **Financial Chatbot** built entirely in **Python within a Jupyter Notebook**. It processes company financials from a CSV file (`financial_data.csv`) and intelligently responds to **natural-language questions** related to revenue, net income, and growth trends.
 
 Whether you're analyzing data for **Apple**, **Microsoft**, **Tesla**, or other listed companies—this chatbot can answer questions in a conversational format.
 
@@ -26,7 +26,7 @@ Whether you're analyzing data for **Apple**, **Microsoft**, **Tesla**, or other 
 
 ## ⚙️ How It Works
 
-1. **Data Input**: Reads financial data from `Fin.csv` using `pandas`.
+1. **Data Input**: Reads financial data from `financial_data.csv` using `pandas`.
 2. **Preprocessing**:
    - Cleans column names and standardizes formats.
    - Computes growth percentages between years.
