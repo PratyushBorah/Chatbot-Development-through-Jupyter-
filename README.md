@@ -51,3 +51,10 @@ Whether you're analyzing data for **Apple**, **Microsoft**, **Tesla**, or other 
 - Only works with companies present in the CSV file.
 - Doesn’t handle multi-company or year-specific questions.
 - Needs well-formatted data columns (e.g., Total_Revenue, Net_Income).
+
+ ## 💬 Connect With Me
+
+Created by **Pratyush Pr. Borah**  
+📧 Email: pratyushborah23@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/your-profile] https://www.linkedin.com/in/pratyush-borah-9b89282a6/
+
